@@ -40,6 +40,7 @@ Time permitting
 
 1. Add single direction audio/video, so a remote user can see and hear what the robot is seeing and hearing
 1. next step: add the second direction, so the remote user can be seen on the robot's screen and heard on the speakers
+1. Add cute robot sounds 
 
 nice to have
 
